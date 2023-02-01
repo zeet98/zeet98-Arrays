@@ -9,7 +9,7 @@
  * For the following problems, all of the syntax we need is in this documentation:
  * https://www.learnjavaonline.org/en/Arrays
  */
-public class ArrayBasics {
+public class Lab {
     /**
      * @param arr the array we're getting data from.
      * @return the length of arr.
